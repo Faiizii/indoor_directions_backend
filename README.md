@@ -1,2 +1,2 @@
 # Indict backend
-This is a learning project for Kashi. Indict (Indoor Directions)
+This is a learning project for Kashi. Indict (Indoor Directions).
