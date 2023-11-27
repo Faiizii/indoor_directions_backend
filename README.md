@@ -1,9 +1,9 @@
 # Indict backend
 
-### 27 Nov, 2023 Test on Normalization 
-## Fail (10/100)
+#### Normalization Assessment
+##### Fail (10/100)
 
-# Reqeust Test
+### Reqeust Test
 
 Get, Post -> Pass
 Put, Head, Delete, Patch, Options, Connect, Trace -> Failed
@@ -12,6 +12,6 @@ Status Codes -> Pass
 
 5 Categories, Informational 1- 100, Successful 200-299, Redirectional 300-399, Client Errors 400-499, Server Error 500 - 599
 
-## Fail (35/100)
+##### Fail (35/100)
 
-#### Overall Result -> 22.5/100 (Failed)
+## Overall Result -> 22.5/100 (Failed) Dated: 27 Nov, 2023
