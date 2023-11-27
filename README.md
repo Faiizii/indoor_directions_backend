@@ -1,11 +1,12 @@
 # Indict backend
 
-#### Normalization Assessment
+#### <ins>Normalization Assessment</ins>
 ##### Fail (10/100)
 
-### Reqeust Test
+### <ins>Reqeust Types Assessment</ins>
 
 Get, Post -> Pass
+
 Put, Head, Delete, Patch, Options, Connect, Trace -> Failed
 
 Status Codes -> Pass
